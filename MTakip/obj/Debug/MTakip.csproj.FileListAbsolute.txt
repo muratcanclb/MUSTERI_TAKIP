@@ -1,0 +1,18 @@
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\bin\Debug\MTakip.exe.config
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\obj\Debug\MTakip.csprojResolveAssemblyReference.cache
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\obj\Debug\MTakip.HomePage.resources
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\obj\Debug\MTakip.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\obj\Debug\MTakip.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\bin\Debug\MTakip.exe
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\bin\Debug\MTakip.pdb
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\obj\Debug\MTakip.exe
+c:\users\murat\documents\visual studio 2015\Projects\MTakip\MTakip\obj\Debug\MTakip.pdb
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\bin\Debug\MTakip.exe.config
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\obj\Debug\MTakip.exe
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\obj\Debug\MTakip.pdb
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\bin\Debug\MTakip.exe
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\bin\Debug\MTakip.pdb
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\obj\Debug\MTakip.csprojResolveAssemblyReference.cache
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\obj\Debug\MTakip.HomePage.resources
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\obj\Debug\MTakip.Properties.Resources.resources
+C:\Users\MURAT\Desktop\C#-PROJE\MTakipV1.0\MTakip\obj\Debug\MTakip.csproj.GenerateResource.Cache
